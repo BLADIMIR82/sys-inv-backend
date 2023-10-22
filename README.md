@@ -1,2 +1,2 @@
-# sys-inv-backend-frontend
-java spring boot  my sql angular.
+# sistema-inventarios-backend-frontend
+Java, (spring boot), mysql and Angular.
